@@ -94,7 +94,7 @@
       <aspectj.version>1.9.6</aspectj.version>
 
       <!-- https://search.maven.org/artifact/org.springframework/spring-beans -->
-      <spring.version>5.3.4</spring.version>
+      <spring.version>5.3.5</spring.version>
 
       <license.excludedGroups>org.jruby</license.excludedGroups>
 
@@ -378,7 +378,7 @@
       <dependency>
          <groupId>com.thoughtworks.xstream</groupId>
          <artifactId>xstream</artifactId>
-         <version>1.4.15</version>
+         <version>1.4.16</version>
          <optional>true</optional>
       </dependency>
       <dependency>
@@ -391,13 +391,13 @@
       <dependency>
          <groupId>ognl</groupId>
          <artifactId>ognl</artifactId>
-         <version>3.2.18</version>
+         <version>3.2.19</version>
          <optional>true</optional>
       </dependency>
       <dependency>
          <groupId>org.jruby</groupId>
          <artifactId>jruby</artifactId>
-         <version>9.2.16.0</version>
+         <version>9.2.17.0</version>
          <optional>true</optional>
       </dependency>
       <dependency>
